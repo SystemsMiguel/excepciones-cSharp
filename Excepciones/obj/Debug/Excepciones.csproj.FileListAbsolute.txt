@@ -1,0 +1,7 @@
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\CAN\Desktop\Tecnologico\2do semestre Tecnologico\Programacion Orientada a Objetos\Unidad 5\Excepciones\obj\Debug\Excepciones.pdb
